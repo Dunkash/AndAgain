@@ -1,0 +1,3 @@
+class UserGraphsController < ApplicationController
+
+end
